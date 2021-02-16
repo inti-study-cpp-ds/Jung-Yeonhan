@@ -1,9 +1,9 @@
 # Jung-Yeonhan
 인트아이 C++, 자료구조 스터디의 스터디장 정연한의 저장소입니다.
 
----
+
 ## [1일차](https://github.com/inti-study-cpp-ds/Jung-Yeonhan/tree/main/Day01)
----
+
 자신이 C++ 문법을 어느정도까지 기억하고 있는지 점검하기 위해  
 기억하고 있는 문법들을 최대한 많이 사용하여 구구단 프로그램을 작성
 
@@ -14,7 +14,7 @@
 * [모두의 코드](https://modoocode.com/134)
 
 ## [2일차](https://github.com/inti-study-cpp-ds/Jung-Yeonhan/tree/main/Day02)
----
+
 입출력, 반복문, 제어문, 함수까지는 지난번 구구단때 복습 했다고 가정하고,  
 2일차에선 포인터를 복습
 
