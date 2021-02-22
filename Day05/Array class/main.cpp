@@ -3,8 +3,11 @@
 using namespace std;
 
 int main() {
-	Array<int, 5> classNum{12171850, 12181825, 12191831, 12201862, 12211882};
+	// 학번을 값으로 받아서 초기화
+	Array<int, 5> classNum{ 12171850, 12181825, 12191831, 12201862, 12211882 };
+	// 학점 평점을 값으로 받아서 초기화
 	Array<double, 5> GPA{ 3.0, 4.2, 3.9, 3.3, 4.5 };
+	// 이름을 값으로 받아서 초기화
 	Array<const char *, 5> name{ "정연한", "김인하", "박인하", "최인하", "조인하" };
 
 	double average = (GPA[0] + GPA[1] + GPA[2] + GPA[3] + GPA[4]) / 5;
