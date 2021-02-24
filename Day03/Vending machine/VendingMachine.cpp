@@ -29,7 +29,7 @@ void VendingMachine::inspectMoney(int n) {
 		cout << "주문하신 " << m_item[n].get_name() << "와 잔돈 "
 			<< m_money << "원 입니다." << endl;
 	}
-	else if (m_money = m_item[n].get_price()) {
+	else if (m_money == m_item[n].get_price()) {
 		m_money -= m_item[n].get_price();
 		cout << "주문하신 " << m_item[n].get_name() << " 나왔습니다." << endl;
 	}

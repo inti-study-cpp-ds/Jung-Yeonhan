@@ -10,7 +10,7 @@ int main() {
 	int money{ };
 	string select{ "" };
 	vector<Item> item{ { "콜라", 1000, 10 }, { "캔커피", 900, 20 }, { "물", 600, 8 }, {"사이다", 1200, 12 } };
-	
+
 	VendingMachine v{ item };
 
 	cout << "돈을 넣어주세요." << endl;
@@ -27,3 +27,4 @@ int main() {
 	
 	return 0;
 }
+
