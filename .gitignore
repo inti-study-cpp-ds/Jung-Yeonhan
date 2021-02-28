@@ -2,4 +2,43 @@
 # 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
 ################################################################################
 
+
 /.vs
+/Day03/Vending machine/Debug/Vending machine.tlog
+/Day03/x64/Debug
+/Day03/Vending machine/x64/Debug
+/Day03/Vending machine/Debug
+/Day03/Day03.sln
+/Day03/Debug
+/Day03/.vs
+/Day03/Vending machine/Vending machine.vcxproj
+/Day03/Vending machine/Vending machine.vcxproj.filters
+/Day03/Vending machine/Vending machine.vcxproj.user
+/Day04/.vs/Day04/v16
+/Day04/Day04.sln
+/Day04/Template/Template.vcxproj
+/Day04/Template/Template.vcxproj.filters
+/Day04/Template/Template.vcxproj.user
+/Day04/Debug
+/Day04/Template/Debug/Template.tlog
+/Day04/Template/Debug
+/Day05/Array class/Debug
+/Day05/.vs/Day05/v16
+/Day05/Debug
+/Day05/Day05.sln
+/Day05/Array class/Array class.vcxproj.user
+/Day05/Array class/Array class.vcxproj.filters
+/Day05/Array class/Array class.vcxproj
+/Day01/.vs/Day01/v16
+/Day01/Debug
+/Day01/multiplication table/Debug
+*.vcxproj
+*.filters
+*.user
+*.sln
+/Day02/.vs/Day02/v16
+/Day02/Debug
+/Day02/pointer/Debug
+/Day08/.vs/Day08/v16
+/Day08/Debug
+/Day08/Linked list/Debug
